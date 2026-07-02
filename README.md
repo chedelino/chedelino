@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br><br>I’m passionate about turning data into insights and building practical solutions.<br><br>🔎 Data Science & Analytics – Exploring data to uncover patterns and drive smarter decisions<br><br>🌐 Web Development – Creating clean, efficient, and scalable web applications<br><br>📦 Supply Chain Analytics – Optimizing processes through data-driven strategies<br><br>🔧 Integrated Logistic Support – Ensuring systems are reliable, maintainable, and efficient<br><br>📍 Based in France – Paris & Orléans<br><br>
- <br>I enjoy combining technical skills with problem-solving to build impactful tools and solutions.
+👋 Hi there!<br><br>Believing that data should be a right, not a privilege. Building open data solutions that empower communities and close the digital gap.<br><br>🌍 Open Data & Digital Inclusion – Breaking down barriers to information and putting data in the hands of those who need it most<br><br>📊 Data Science & Analytics – Uncovering patterns and turning raw data into meaningful insights<br><br>🌐 Web Development – Building clean, efficient, and scalable applications<br><br>📍 Based in France – Paris & Orléans<br><br>Combining technical skills with a mission — using data as a force for communities.
 
 
 ## 🌐 Socials:
