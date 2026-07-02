@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br><br>Believing that data should be a right, not a privilege. Building open data solutions that empower communities and close the digital gap.<br><br>🌍 Open Data & Digital Inclusion – Breaking down barriers to information and putting data in the hands of those who need it most<br><br>📊 Data Science & Analytics – Uncovering patterns and turning raw data into meaningful insights<br><br>🌐 Web Development – Building clean, efficient, and scalable applications<br><br>📍 Based in France – Paris & Orléans<br><br>Combining technical skills with a mission — using data as a force for communities.
+👋 Hi there!<br><br>I believe that data should be a right, not a privilege. I build open data solutions that empower communities and close the digital gap.<br><br>🌍 Open Data & Digital Inclusion – Breaking down barriers to information and putting data in the hands of those who need it most<br><br>📊 Data Science & Analytics – Uncovering patterns and turning raw data into meaningful insights<br><br>🌐 Web Development – Building clean, efficient, and scalable applications<br><br>📍 Based in France – Paris & Orléans<br><br>Combining technical skills with a mission — using data as a force for communities.
 
 
 ## 🌐 Socials:
